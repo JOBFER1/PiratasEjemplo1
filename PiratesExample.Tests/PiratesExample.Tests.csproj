@@ -20,4 +20,8 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PiratesExample\PiratasEjemplo1.csproj" />
+  </ItemGroup>
+
 </Project>
